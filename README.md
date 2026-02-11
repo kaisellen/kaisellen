@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaisellen
 - 👀 I’m interested in machiine learning and deep learning
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
   
 
 <!---
