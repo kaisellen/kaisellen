@@ -2,7 +2,7 @@
 - 👀 I’m interested in machiine learning and deep learning
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me walkermendscole@gmail.com
+  
 
 <!---
 kaisellen/kaisellen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
